@@ -2,7 +2,6 @@
 
 Get a free `yourgame.vtxgames.co.uk` subdomain for your game project.
 
-> Inspired by [js.org](https://js.org). Powered by Cloudflare + GitHub Actions.
 
 ---
 
