@@ -1,0 +1,11 @@
+{
+  "subdomain": "leotable",
+  "owner": {
+    "github": "vtxgames"
+  },
+  "record": {
+    "type": "CNAME",
+    "value": "leotable.vercel.app"
+  },
+  "description": "LeoTable game hosted on Vercel"
+}
