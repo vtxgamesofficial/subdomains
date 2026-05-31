@@ -1,0 +1,11 @@
+{
+  "subdomain": "example",
+  "owner": {
+    "github": "yourgithubusername"
+  },
+  "record": {
+    "type": "CNAME",
+    "value": "yourusername.github.io"
+  },
+  "description": "A short description of your game"
+}
